@@ -1,0 +1,9 @@
+[submodule "MALSAR"]
+	path = MALSAR
+	url = https://github.com/jiayuzhou/MALSAR
+[submodule "optunity"]
+	path = optunity
+	url = https://github.com/johnnytorres/optunity.git
+[submodule "jsonlab"]
+	path = jsonlab
+	url = https://github.com/fangq/jsonlab
