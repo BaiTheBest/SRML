@@ -201,6 +201,8 @@ MAX_TRAIN_SIZE=0.8
 ./scripts/run.sh $DATASET $MODELS $MODE $STORE $SOLVER $ITERS $MIN_TRAIN_SIZE $MAX_TRAIN_SIZE $TEST_DATASET
 '''
 
+## Reference and Citation
+
 If you find this code useful in your research, please consider citing:
 
 
