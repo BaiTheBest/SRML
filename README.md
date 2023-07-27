@@ -200,3 +200,15 @@ MIN_TRAIN_SIZE=0.8
 MAX_TRAIN_SIZE=0.8
 ./scripts/run.sh $DATASET $MODELS $MODE $STORE $SOLVER $ITERS $MIN_TRAIN_SIZE $MAX_TRAIN_SIZE $TEST_DATASET
 '''
+
+If you find this code useful in your research, please consider citing:
+
+
+      @inproceedings{bai2023sign,
+        title={Sign-Regularized Multi-Task Learning},
+        author={Bai, Guangji and Torres, Johnny and Wang, Junxiang and Zhao, Liang and Abad, Cristina and Vaca, Carmen},
+        booktitle={Proceedings of the 2023 SIAM International Conference on Data Mining (SDM)},
+        pages={793--801},
+        year={2023},
+        organization={SIAM}
+      }
